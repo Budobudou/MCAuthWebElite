@@ -1,0 +1,6 @@
+# ID と IP の記録ファイル
+idip.txt
+# 設定
+config.ini
+# 認証ページテンプレート群
+/views
